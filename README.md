@@ -1,6 +1,6 @@
 #  School Management System (Backend)
 
- **Database Normalization Justification (as per assessment)**  
+ **Database Normalization Justification (as per assignment)**  
 Instead of using JSON fields to store related data, normalized tables were created (teacher_sub and teacher_class).  
 This ensures:
 - Data integrity  
@@ -9,7 +9,7 @@ This ensures:
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 ```
 com.school.manageschool
 │ Student.java
